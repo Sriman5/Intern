@@ -1,0 +1,97 @@
+.carousel{
+    background: url("../images/626995.jpg") no-repeat center;
+    background-size: cover;
+    height: 640px;
+    
+}
+.nav1{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+.nav12{
+    font: white;
+    margin-top: -53px;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+.nav123{
+    font: white;
+    margin-top: -58px;
+    font-size: 20px;
+    margin-left: 180px;
+    font-family: 'Oswald', sans-serif;
+}
+.nav2{
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+}
+.logo{
+    font-family: 'Bebas Neue', cursive;
+    color: #0f9b0f;
+   
+}
+.logo2{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Satisfy', cursive;
+    color: white;
+    margin-left: 500px;
+    margin-top: -200px;
+}
+.button1{
+    font-family: 'Bebas Neue', cursive;
+    padding: 90%;
+}
+.img1{
+    width: 950px;
+    height: 300px;
+}
+.img2{
+    width: 950px;
+    height: 300px;
+}
+.cardbox{
+padding: 100px;
+}
+.row1{
+    border-radius: 100px;
+}
+.footer1{
+    background-color: yellowgreen;
+    height: 90px;
+}
+.footer2{
+    background-color: #1c1b1b;
+    height: 320px;
+}
+.last1h{
+    color: #0f9b0f;
+    text-align: center;   
+}
+.last1c{
+    padding: 3%;
+    text-align: center; 
+}
+.last2h{
+    color: #0f9b0f;
+    text-align: left; 
+}
+.last2c{
+    padding: 3%;
+    text-align: left; 
+}
+.last3h{
+    color: #0f9b0f;
+    text-align: center; 
+}
+.last3c{
+    padding: 3%;
+    text-align: left; 
+}
+.footer3{
+    height: 50px;
+    text-align: center;    
+}
+.foot3{
+    text-align: center;
+    margin-top: 23px;
+}
